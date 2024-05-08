@@ -1,0 +1,20 @@
+p {
+    font-family:"Times New Roman";
+    text-align:center;
+    border: 0;
+    padding: 0;
+}
+body {background-color:aquamarine;}
+#mainBox {margin: auto; width:90vw; height:90vh; padding:0; text-align: center;}
+#box1 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 3vh; left: 20vw; background-color: white;}
+#box2 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 3vh; left: 42vw; background-color: white}
+#box3 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 3vh; right: 20vw; background-color: white}
+#box4 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 35vh; left: 20vw; background-color: white}
+#box5 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 35vh; left: 42vw; background-color: white}
+#box6 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 35vh; right: 20vw; background-color: white}
+#box7 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 67vh; left: 20vw; background-color: white}
+#box8 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 67vh; left: 42vw; background-color: white}
+#box9 {margin: auto; width:26vh; height:26vh; padding:0; border: 2vh solid black; position: fixed; top: 67vh; right: 20vw; background-color: white}
+#innerButton {height:100%; width:100%; font-size:8vh; background-color: rgb(255, 210, 143);}
+#innerGraphic {position: relative; bottom: 38vh; font-size: 30vh;}
+#endtext {font-size: 10vh;}
